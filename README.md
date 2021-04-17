@@ -20,8 +20,6 @@ git clone 'the link url of the repository'
 Well here is the interesting part. It would be easy to push it to the master branch. But more often that not, you don't want that. So what you rather wanna do is to create a
 branch with the following command: 
 
-%No '' anywhere!
-
 git checkout -b your_branch_name
 
 This creates a branch and immediately puts you in the branch. 
