@@ -6,7 +6,7 @@ Hello ladies and gentlemen, this is a short tutorial about Github.
 Github is mostly used to maintain code. Whether it is a solo project or a collaboration, it ensures a good version control of your code. Reached a checkpoint 
 and it is working properly? Push it to Github. In case your code fails and you want to recover the previous version you can simply pull it from Github 
 
-I am not going to give you a complete tutorial, but just some basics on how to work with Github. However, as the whole world is using Github it would be nice if you 
+I am not going to give you a complete tutorial, but just some basics that you may need. However, as the whole world is using Github it would be nice if you 
 are able to master it. 
 
 ## How to download 
