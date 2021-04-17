@@ -51,4 +51,5 @@ Then delete the branch:
 
 git branch -d branch_name
 
+## Extra notes
 Oh btw, to do all this I need to add you to the project, so don't forget that xd
