@@ -9,6 +9,8 @@ and it is working properly? Push it to Github. In case your code fails and you w
 I am not going to give you a complete tutorial, but just some basics that you may need. However, as the whole world is using Github it would be nice if you 
 are able to master it. 
 
+So open command anywhere you want, preferably the file you want to download the Github project.
+
 ## How to download 
 You have two ways: One is clicking on the green button (code) and click download zip. But what people mostly do is to use the following command: 
 
@@ -48,3 +50,5 @@ git merge branch_name
 Then delete the branch:
 
 git branch -d branch_name
+
+Oh btw, to do all this I need to add you to the project, so don't forget that xd
