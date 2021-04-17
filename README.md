@@ -17,7 +17,7 @@ You have two ways: One is clicking on the green button (code) and click download
 git clone 'the link url of the repository'
 
 ## What if you want to modify something? 
-Well here is the interesting part. It would be easy to push it to the master branch. But more often that not, you don't want that. So what you rather wanna do is to create a
+Well here is the interesting part. It would be easy to push it to the master branch. But more often than not, you don't want that. So what you rather wanna do is to create a
 branch with the following command: 
 
 git checkout -b your_branch_name
