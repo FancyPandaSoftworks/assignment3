@@ -39,7 +39,7 @@ To push a file to Github, you do the following:
 2) git commit -m 'your message here, please be concise and clear, not something like fixed some bugs, that is useless'
 3) git push 
 
-And voila it is push to the branch or master (Or main what we call in this project)
+And voila it is pushed to the branch or master (Or main what we call in this project)
 
 ## Merge branch with master
 If you want to merge it to the master, then you should go to the master branch first. Then: 
