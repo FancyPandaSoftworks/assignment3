@@ -21,6 +21,7 @@ Well here is the interesting part. It would be easy to push it to the master bra
 branch with the following command: 
 
 %No '' anywhere!
+
 git checkout -b your_branch_name
 
 This creates a branch and immediately puts you in the branch. 
