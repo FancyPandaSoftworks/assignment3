@@ -32,6 +32,10 @@ To switch brances:
 
 git checkout branch_name 
 
+Up stream: 
+
+git push --set-upstream origin <your-branch-name>
+
 ## Send modified files 
 To push a file to Github, you do the following: 
 
